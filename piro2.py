@@ -1,3 +1,3 @@
 def piro2():
-    print("수정")
+    print("piro2 cart")
     return 2
